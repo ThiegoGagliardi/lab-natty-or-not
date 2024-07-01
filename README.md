@@ -23,16 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Gerada uma imagem sobre a tela de abertura do Diablo II
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Bing copilot Dall-e
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+(https://www.bing.com/images/create/in-a-world-named-sanctuary-there-are-4-heros-that-/1-6682791755fa4a769f2a041413cc998d?FORM=GENCRE)
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![<heros_of_sanctuary>](<heros_of_sanctuary1.jpg>)
+![<heros_of_sanctuary>](<heros_of_sanctuary2.jpg>)
+![<heros_of_sanctuary>](<heros_of_sanctuary3.jpg>)
+![<heros_of_sanctuary>](<heros_of_sanctuary4.jpg>)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
