@@ -20,19 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Uma nova visão sobre os heróis de Santuário
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Tentei recriar a tela de abertura do jogo Diablo II com os heróis em volta da fogueira
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Bing copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+https://www.bing.com/images/create?q=In+a+world+named+Sanctuary+there+are+4+heros+that+rise+to+evil+combat%2C+one+paladin%2C+one+barbare%2C+one+druid%2C+a+witcher.+Draw+them++around++a+bonfire&rt=3&FORM=GENCRE&id=1-6682731d9b8746638e1e108e07f6e7b4
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![heros_of_sanctuary2](https://github.com/digitalinnovationone/lab-natty-or-not/assets/79970895/1d8d059a-5e57-4957-afe1-1a0492335963)
+![heros_of_sanctuary4](https://github.com/digitalinnovationone/lab-natty-or-not/assets/79970895/aacc3d89-fe4b-4268-af3a-4047f7982d66)
+![heros_of_sanctuary3](https://github.com/digitalinnovationone/lab-natty-or-not/assets/79970895/005509df-2228-4713-9dc5-201dc4c67daf)
+![heros_of_sanctuary1](https://github.com/digitalinnovationone/lab-natty-or-not/assets/79970895/037db93d-360f-48b6-8f0f-3805313ba111)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
