@@ -19,8 +19,8 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+
+# Uma nova abordagem sobre os heróios de Santuário
 
 ## 📒 Descrição
 Gerada uma imagem sobre a tela de abertura do Diablo II
@@ -39,7 +39,6 @@ Bing copilot Dall-e
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
 ### Exemplos e Insigths
 
